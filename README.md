@@ -1,2 +1,4 @@
-# Classification-of-Harmful-Brain-Activity
-Built a CNN model to classify harmful brain activity from EEG spectrograms, aiding early detection of neurological conditions. Included data preprocessing, augmentation, and model evaluation using TensorFlow and Keras.
+Classification of Harmful Brain Activity-
+
+A deep learning project to classify harmful brain activity from EEG spectrograms using Convolutional Neural Networks (CNN).  
+The goal is to support early detection of neurological disorders through automated signal interpretation.
